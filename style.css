@@ -1,0 +1,36 @@
+.heading
+{
+    color:rgb(194, 102, 255);
+    background-color: rgb(207, 183, 255);
+    font-size: 18px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 6px 6px 6px rgb(255, 0, 166, 0.289);
+    line-height: 3;
+}
+
+.note
+{
+    font-size:15px;
+    background-color: rgb(255, 214, 251);
+    color: rgb(255, 181, 246);
+    line-height: 2;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color:rgb(192, 102, 255);
+    bottom:0;
+    width:100%;
+    line-height: 2;
+    text-align:center;
+    font-size: 18px;
+    background-color:rgb(207, 183, 255); ;
+}
+
+canvas{
+    border:5px solid rgb(248, 0, 215);
+    border-radius: 20px;
+    box-shadow:6px 6px 6px rgb(255, 0, 166, 0.289);
+}
